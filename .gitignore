@@ -1,0 +1,5 @@
+venv
+*.mwb
+*.txt
+__pycache__
+images
